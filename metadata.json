@@ -1,0 +1,5 @@
+{
+  "name": "AI Transparent Terminal",
+  "description": "A visually stunning, transparent terminal interface powered by AI. Simulate shell commands and get intelligent responses in a sleek, modern UI, inspired by Kali-GPT and Electron JS apps.",
+  "requestFramePermissions": []
+}
